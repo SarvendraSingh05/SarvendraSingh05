@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sarvendra Vikram Singh
+# Hi 👋, I'm Sarvendra Vikram Singh
 
 **B.Tech CSE Student || Full-Stack Developer || ML Enthusiast 🇮🇳**
 
