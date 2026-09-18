@@ -2,13 +2,13 @@
 
 **B.Tech CSE Student || Full-Stack Developer || ML Enthusiast 🇮🇳**
 
-* 🔭 **Currently working on:** Full-Stack & Machine Learning Projects
-* 🌱 **Currently learning:** Java, DSA & Machine Learning
-* 👯 **Looking to collaborate on:** Full-Stack, ML & Open-Source Projects
-* 💬 **Ask me about:** Java, Python, JavaScript & Web Development
-* 🎯 **Goal:** Building real-world projects & becoming a strong Software Engineer
-* 📫 **Reach me:** GitHub • LinkedIn • Email
-* ⚡ **Fun fact:** I love turning ideas into working projects 🚀
+*  **Currently working on:** Full-Stack & Machine Learning Projects
+*  **Currently learning:** Java, DSA & Machine Learning
+*  **Looking to collaborate on:** Full-Stack, ML & Open-Source Projects
+*  **Ask me about:** Java, Python, JavaScript & Web Development
+*  **Goal:** Building real-world projects & becoming a strong Software Engineer
+*  **Reach me:** GitHub • LinkedIn • Email
+*  **Fun fact:** I love turning ideas into working projects 🚀
 
 **🚀 Code • Learn • Build • Repeat**
 
